@@ -44,8 +44,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sankar-A06/Sports-Hub-Project.git
-   cd Sports-Hub-Project
+   git clone https://https://github.com/nithin-reddy45/Full-Stack.git
+   cd Full-Stack
    ```
 
 2. **Install dependencies**
@@ -72,9 +72,9 @@
 
 ### One-Click Deploy
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Sankar-A06/Sports-Hub-Project)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://https://github.com/nithin-reddy45/Full-Stack)
 
-[![Deploy to Vercel](https://img.shields.io/badge/Deploy%20to%20Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/Sankar-A06/Sports-Hub-Project)
+[![Deploy to Vercel](https://img.shields.io/badge/Deploy%20to%20Vercel-000000?style=for-the-badge&logo=vercel)](https://vercel.com/new/clone?repository-url=https://https://github.com/nithin-reddy45/Full-Stack)
 
 [![Deploy to Railway](https://img.shields.io/badge/Deploy%20to%20Railway-0B0D0E?style=for-the-badge&logo=railway)](https://railway.app/template/your-template-id)
 
@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- **Nithin** - *Initial work* - [nithin-reddy45](https://github.com/Sankar-A06)
+- **Nithin** - *Initial work* - [nithin-reddy45](https://github.com/nithin-reddy-45)
 
 ## 🙏 Acknowledgments
 
@@ -220,11 +220,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Discord**: [Join our community](https://discord.gg/your-discord)
 - **Email**: support@athleteconnect.com
-- **Issues**: [GitHub Issues](https://github.com/nithin-reddy-45/Sports-Hub-Project/issues)
+- **Issues**: [GitHub Issues](https:https://github.com/nithin-reddy45/Full-Stackt/issues)
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Sankar-A06/Sports-Hub-Project&type=Date)](https://star-history.com/#Sankar-A06/Sports-Hub-Project&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=nithin-reddy-45/Full-Stack&type=Date)](https://star-history.com/#nithin-reddy45/Full-Stack&Date)
 
 ---
 
