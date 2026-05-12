@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Contributors
 
-- **Sankar** - *Initial work* - [Sankar-A06](https://github.com/Sankar-A06)
+- **Nithin** - *Initial work* - [nithin-reddy45](https://github.com/Sankar-A06)
 
 ## 🙏 Acknowledgments
 
@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Discord**: [Join our community](https://discord.gg/your-discord)
 - **Email**: support@athleteconnect.com
-- **Issues**: [GitHub Issues](https://github.com/Sankar-A06/Sports-Hub-Project/issues)
+- **Issues**: [GitHub Issues](https://github.com/nithin-reddy-45/Sports-Hub-Project/issues)
 
 ## 📈 Star History
 
