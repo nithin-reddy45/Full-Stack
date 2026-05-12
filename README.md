@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AthleteConnect ⚡
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
@@ -230,3 +231,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you found it helpful!**
 
 🏆 **AthleteConnect - Where Champions Are Made**
+=======
+# Full-Stack
+>>>>>>> d6d369d23d1120c0139c4b3fb1c3bfdeabd3b72f
